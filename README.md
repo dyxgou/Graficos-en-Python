@@ -1,9 +1,10 @@
+# Gráficos usando Python y Plotly
 Este es un pequeño ejemplo de como crear graficos en Python.
 
 
 Clonamos el repositorio
 ```
-git clone https://github.com/dyxgou/ graficos
+git clone https://github.com/dyxgou/Graficos-en-Python graficos
 ```
 
 Creamos un entorno virtual
